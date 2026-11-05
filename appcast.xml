@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CastPanda</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 05 Nov 2026 10:37:24 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ronyfadel/CastPandaReleases/releases/download/v1.0.1/CastPanda.dmg" sparkle:edSignature="1ff6GRlYRL7N6+Toah87tIW9pl2qszD9VOOIhfz1mDr0/eyvvVGYQsv5Tui4wfzHSR/OKpTRAOEvp2PKYVdgAQ==" length="35128878"/>
+        </item>
+    </channel>
+</rss>
