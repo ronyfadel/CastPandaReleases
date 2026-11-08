@@ -3,6 +3,14 @@
     <channel>
         <title>CastPanda</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Sun, 08 Nov 2026 23:22:30 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ronyfadel/CastPandaReleases/releases/download/v1.0.5/CastPanda.dmg" sparkle:edSignature="ygvGB3L626k4jw9aeGJbjYaS+9I+GMZCKD5Y5mA3X5YKFI3jvVvukpn3Jrw8pm6sKtxD4KTgip0vTAdmMst0Ag==" length="35190251"/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Sun, 08 Nov 2026 19:07:51 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
